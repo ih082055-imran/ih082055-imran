@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT69o3oRcx25LfPFOKknuzUTTCg6SblImgWi8wJet41Ew&s=10.png ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ih082055-imran&label=Profile%20views&color=0e75b6&style=flat" alt="ih082055-imran" /> </p>
 
-- 📫 How to reach me **ih082055@gmail.com**
+- 📫 How to reach me ****
 
 - ⚡ Fun fact **no fun**
 
